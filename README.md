@@ -5,3 +5,5 @@ This is a C++ programming introductory course at Riverside City College I took w
 
 
 Some notes to share with everyone, maybe will help. 
+
+LOOK AT BRANCHES FOR EACH INDIVIDUAL CHAPTER. 
